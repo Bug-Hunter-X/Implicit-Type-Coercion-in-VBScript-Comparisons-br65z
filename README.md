@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon error in VBScript related to implicit type coercion during comparisons.  The `bug.vbs` file shows a function that may produce unexpected results due to VBScript's loose typing, and the `bugSolution.vbs` provides a corrected version.
